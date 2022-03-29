@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ItemCollection>
+	<Cards>
+		<Card ID="000">
+			<Name>Index</Name>
+			<Desc>Description of the Index</Desc>
+			<Type>Weapon, Shield, Armor, Consumable, Spell, Summon, Companion</Type>
+			<Rarity>Potato</Rarity>
+			<Rating>500</Rating>
+		</Card>
+		<Card ID="001">
+			<Name>Level 1 Sword</Name>
+			<Desc>A basic short sword.</Desc>
+			<Type>Weapon</Type>
+			<Rarity>Common</Rarity>
+			<Rating>010</Rating>
+		</Card>
+		<Card ID="002">
+			<Name>Level 2 Sword</Name>
+			<Desc>A basic, yet sturdy short sword.</Desc>
+			<Type>Weapon</Type>
+			<Rarity>Common</Rarity>
+			<Rating>020</Rating>
+		</Card>
+		<Card ID="003">
+			<Name>Level 3 Sword</Name>
+			<Desc>A sturdy short sword.</Desc>
+			<Type>Weapon</Type>
+			<Rarity>Uncommon</Rarity>
+			<Rating>030</Rating>
+		</Card>
+		<Card ID="004">
+			<Name>Level 1 Shield</Name>
+			<Desc>A basic shield.</Desc>
+			<Type>Shield</Type>
+			<Rarity>Common</Rarity>
+			<Rating>010</Rating>
+		</Card>
+		<Card ID="005">
+			<Name>Level 2 Shield</Name>
+			<Desc>A basic, yet sturdy shield.</Desc>
+			<Type>Shield</Type>
+			<Rarity>Uncommon</Rarity>
+			<Rating>020</Rating>
+		</Card>
+		<Card ID="006">
+			<Name>Level 3 Shield</Name>
+			<Desc>A sturdy shield.</Desc>
+			<Type>Shield</Type>
+			<Rarity>Uncommon</Rarity>
+			<Rating>050</Rating>
+		</Card>
+		<Card ID="007">
+			<Name>Level 1 Axe</Name>
+			<Desc>A basic axe.</Desc>
+			<Type>Weapon</Type>
+			<Rarity>Common</Rarity>
+			<Rating>015</Rating>
+		</Card>
+		<Card ID="008">
+			<Name>Level 2 Axe</Name>
+			<Desc>A basic, yet sturdy axe.</Desc>
+			<Type>Weapon</Type>
+			<Rarity>Uncommon</Rarity>
+			<Rating>030</Rating>
+		</Card>
+		<Card ID="009">
+			<Name>Level 3 Axe</Name>
+			<Desc>A basic, yet sturdy short sword.</Desc>
+			<Type>Weapon</Type>
+			<Rarity>Rare</Rarity>
+			<Rating>080</Rating>
+		</Card>
+		<Card ID="010">
+			<Name>Health Potion</Name>
+			<Desc>A strange liquid that sooths the pain.</Desc>
+			<Type>Consumable</Type>
+			<Rarity>Common</Rarity>
+			<Rating>005</Rating>
+		</Card>
+		<Card ID="011">
+			<Name>Level 1 Armor</Name>
+			<Desc>Lightweight Armor that provides a small beneficial amount of armor. </Desc>
+			<Type>Armor</Type>
+			<Rarity>Uncommon</Rarity>
+			<Rating>010</Rating>
+		</Card>
+		<Card ID="012">
+			<Name>Level 2 Armor</Name>
+			<Desc>Lightweight Armor that provides a medium amount of armor. </Desc>
+			<Type>Armor</Type>
+			<Rarity>Uncommon</Rarity>
+			<Rating>025</Rating>
+		</Card>
+		<Card ID="013">
+			<Name>Level 3 Armor</Name>
+			<Desc>Lightweight Armor that provides a large amount of armor. </Desc>
+			<Type>Armor</Type>
+			<Rarity>Rare</Rarity>
+			<Rating>045</Rating>
+		</Card>
+		<Card ID="014">
+			<Name>Level 4 Armor</Name>
+			<Desc>Lightweight Armor that provides an insane amount of armor. </Desc>
+			<Type>Armor</Type>
+			<Rarity>Legendary</Rarity>
+			<Rating>060</Rating>
+		</Card>
+		<Card ID="015">
+			<Name>Magical Feather</Name>
+			<Desc>A strange feather when smashed in your hand performs miracles. </Desc>
+			<Type>Consumable</Type>
+			<Rarity>Legendary</Rarity>
+			<Rating>080</Rating>
+		</Card>
+		<Card ID="016">
+			<Name>Lvl.1 Tech Blade</Name>
+			<Desc>A blade created with the highest of technology's ability. </Desc>
+			<Type>Weapon</Type>
+			<Rarity>Uncommon</Rarity>
+			<Rating>025</Rating>
+		</Card>
+		<Card ID="017">
+			<Name>Tech Buster</Name>
+			<Desc>A formidable weapon so large, defending it's brute force is pointless. </Desc>
+			<Type>Weapon</Type>
+			<Rarity>Legendary</Rarity>
+			<Rating>100</Rating>
+		</Card>
+	</Cards>
+</ItemCollection>
